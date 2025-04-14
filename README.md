@@ -1,4 +1,4 @@
-# 📚 Data Analysis Projects
+#  Data Analysis Projects
 
 Welcome to my Data Analysis learning journey!  
 This repository contains my hands-on exercises, notes, and mini-projects based on various highly regarded data analysis books.
